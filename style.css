@@ -1,0 +1,41 @@
+body {
+    background-color: #ACE1AF;
+}
+
+.container {
+    height: 250px;
+    width: 55%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    background-color: #BFF6C3;
+    display: flexbox;
+    border-radius: 10px;
+    border: 5px solid #E0FBE2;
+
+}
+
+h1 {
+    color: #7469B6;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    color: #040D12;
+    font-size: medium;
+}
+
+button {
+    font-size: medium;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+#weight-guide {
+    text-align: center;
+}
